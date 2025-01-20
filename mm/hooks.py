@@ -1,8 +1,8 @@
 app_name = "mm"
-app_title = "test"
+app_title = "mm"
 app_publisher = "hazem"
-app_description = "test"
-app_email = "hazem@hotmail.com"
+app_description = "fg"
+app_email = "hazem@gmail.com"
 app_license = "mit"
 
 # Apps
@@ -15,7 +15,7 @@ app_license = "mit"
 # 	{
 # 		"name": "mm",
 # 		"logo": "/assets/mm/logo.png",
-# 		"title": "test",
+# 		"title": "mm",
 # 		"route": "/mm",
 # 		"has_permission": "mm.api.permission.has_app_permission"
 # 	}
